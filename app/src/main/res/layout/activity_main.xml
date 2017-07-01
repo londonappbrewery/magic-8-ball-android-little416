@@ -19,7 +19,7 @@
         android:background="#26ade0"
         android:text="Ask"
         android:textColor="#ffff"
-        android:layout_marginTop="30dp"
+        android:layout_marginTop="40dp"
         android:layout_below="@+id/image_eightBall"
         android:layout_centerHorizontal="true" />
 
@@ -29,7 +29,7 @@
         android:layout_height="wrap_content"
         android:layout_marginTop="36dp"
         android:text="Make everyday decisions easier!"
-        android:textSize="20sp"
+        android:textSize="23sp"
         android:textStyle="bold"
         android:layout_alignParentTop="true"
         android:layout_centerHorizontal="true" />
